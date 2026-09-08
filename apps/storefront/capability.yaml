@@ -1,0 +1,12 @@
+id: auto-storefront
+name: storefront
+repo: mumchimp-medusa
+path: mumchimp-medusa/apps/storefront
+state: HAS_CLUSTER_MANIFEST
+git_branch: main
+last_commit: '2026-08-25'
+code_files: 212
+test_files: 0
+indicators:
+- package.json
+requires_deep_review: true

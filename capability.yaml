@@ -1,0 +1,12 @@
+id: auto-mumchimp-medusa
+name: mumchimp-medusa
+repo: mumchimp-medusa
+path: mumchimp-medusa
+state: NO_CLUSTER_HOME
+git_branch: main
+last_commit: '2026-08-25'
+code_files: 228
+test_files: 0
+indicators:
+- package.json
+requires_deep_review: true

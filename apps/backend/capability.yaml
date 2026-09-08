@@ -1,0 +1,12 @@
+id: auto-backend
+name: backend
+repo: mumchimp-medusa
+path: mumchimp-medusa/apps/backend
+state: HAS_CLUSTER_MANIFEST
+git_branch: main
+last_commit: '2026-08-25'
+code_files: 15
+test_files: 0
+indicators:
+- package.json
+requires_deep_review: true
