@@ -1,8 +1,8 @@
 # AGENTS.md
 
-## Merian Intelligence — group operating context (founder 2026-11-09)
+## Merdian Intelligence — group operating context (founder 2026-11-09)
 
-Mumchimp is a group company within Merian Intelligence, the parent AI laboratory and product commercialisation business. Genesis / Autonomous Estate is a product, not the parent. Respect this repository's Medusa-specific delivery and customer/commerce safeguards. Run isolated research/prototype experiments boldly, with hypotheses, measurements and negative-result receipts; commercial payment, customer and shared-production paths demand independent security, correctness and operational evidence. Never claim that Medusa starter code proves a deployed Mumchimp service. Read canonical group mode definitions at https://github.com/chidionyema/argon/blob/main/docs/decisions/2026-11-09-merian-lab-operating-model.md. Do not create another competing policy framework.
+Mumchimp is a group company within Merdian Intelligence, the parent AI laboratory and product commercialisation business. Genesis / Autonomous Estate is a product, not the parent. Respect this repository's Medusa-specific delivery and customer/commerce safeguards. Run isolated research/prototype experiments boldly, with hypotheses, measurements and negative-result receipts; commercial payment, customer and shared-production paths demand independent security, correctness and operational evidence. Never claim that Medusa starter code proves a deployed Mumchimp service. Read canonical group mode definitions at https://github.com/chidionyema/argon/blob/main/docs/decisions/2026-11-09-merian-lab-operating-model.md. Do not create another competing policy framework.
 
 
 
@@ -170,3 +170,7 @@ Before claiming a fix is successful, you MUST prove it empirically:
 3. **Verify the critical path:** If it's a bot, verify the upstream webhook and LLM generation path. If it's a database, verify a real row was written.
 
 If you cannot quote a successful production log line, the system is NOT working.
+
+
+## Canonical group identity, corrected 2026-11-09
+**Merdian Intelligence** is the parent business. Revenue channels include paid **AI/technology consultancy and engineering**, research partnerships, and ventures/products. The AI laboratory continuously tests and evaluates frontier capabilities. **Mumchimp** is a group company; **Genesis / Autonomous Estate** is an experimental product and operating system; **Blabka** is a portfolio product. Client-facing sites must explain consultancy and present credible contact/sales routes, never internal source repositories as the main conversion path. No unsupported commercial claims.
