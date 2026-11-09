@@ -1,5 +1,11 @@
 # AGENTS.md
 
+## Merian Intelligence — group operating context (founder 2026-11-09)
+
+Mumchimp is a group company within Merian Intelligence, the parent AI laboratory and product commercialisation business. Genesis / Autonomous Estate is a product, not the parent. Respect this repository's Medusa-specific delivery and customer/commerce safeguards. Run isolated research/prototype experiments boldly, with hypotheses, measurements and negative-result receipts; commercial payment, customer and shared-production paths demand independent security, correctness and operational evidence. Never claim that Medusa starter code proves a deployed Mumchimp service. Read canonical group mode definitions at https://github.com/chidionyema/argon/blob/main/docs/decisions/2026-11-09-merian-lab-operating-model.md. Do not create another competing policy framework.
+
+
+
 ## Overview
 
 Medusa DTC Starter — a Turborepo workspace monorepo containing a Medusa backend (`@medusajs/medusa` latest, Node 20+, PostgreSQL 15+) and an optional storefront (Next.js, Tanstack, etc...).
